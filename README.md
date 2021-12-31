@@ -1,0 +1,1 @@
+# samsung-tv-art-mode-photo-cropper
